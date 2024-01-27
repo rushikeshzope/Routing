@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.7rem;
+  background-color: rgb(33, 29, 29);
+  padding: 0.7vw;
+
+}
+
+.text{
+  text-decoration: none;
+  color: rgb(250, 32, 12);
+  font-weight: bold;
+}
+
+
+.cont{
+  height: 45vw;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 6rem;
+  font-weight: bold;
+}
